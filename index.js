@@ -1,7 +1,7 @@
 import { OrbitControls } from "jsm/controls/OrbitControls.js";
 import * as THREE from "three";
-import getStarFiled from "../src/getStarfield.js";
-import { getFresnelMat } from "../src/getFresnelMat.js";
+import getStarFiled from "./src/getStarfield.js";
+import { getFresnelMat } from "./src/getFresnelMat.js";
 
 const w = window.innerWidth;
 const h = window.innerHeight;
