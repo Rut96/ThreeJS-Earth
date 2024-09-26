@@ -1,4 +1,4 @@
-import { OrbitControls } from "jsm/controls/OrbitControls.js";
+import { OrbitControls } from "./src/OrbitControls.js";
 import * as THREE from "three";
 import getStarFiled from "./src/getStarfield.js";
 import { getFresnelMat } from "./src/getFresnelMat.js";
